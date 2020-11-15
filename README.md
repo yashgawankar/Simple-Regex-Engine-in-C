@@ -40,19 +40,30 @@ Input:-
 From stdin, as follows
 
 text
+
 no_of_patterns
+
 pattern0
+
 pattern1
+
 .
+
 .
+
 .
 
 Constraints:-
+
 Max length of text = 4000
+
 Max length of patterns = 1000
 
 Output:-
 As required by the assignment, this code Outputs:-
+
    0 - if there is no match
+   
    1 start_index end_index - if match is found
+   
 for each pattern input
