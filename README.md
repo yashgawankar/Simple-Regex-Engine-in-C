@@ -38,6 +38,7 @@ Logic used:-
 
 Input:-
 From stdin, as follows
+
 text
 no_of_patterns
 pattern0
