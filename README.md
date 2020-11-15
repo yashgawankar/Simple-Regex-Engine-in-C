@@ -1,5 +1,7 @@
 # Simple-Regex-Engine-in-C
 
+This code prints the starting and ending index of the match in the text, in case of a match; 0 otherwisw.
+
 The following matches required for this assignment are supported by this code:-
 1. Matching of individual characters and numbers
 2. Ranges: a-z,A-Z,0-9 or anything in between
